@@ -1,0 +1,251 @@
+{
+  "data": {
+    "type": "section",
+    "id": "4865",
+    "attributes": {
+      "title": "Siaran Pilihan",
+      "variation": "circle_horizontal",
+      "data_source": "none",
+      "view_more_url": "",
+      "mobile_background_image_url": "https://static-web-prod-vidio.akamaized.net/assets/default/medium_portrait-bbacc7b0a32724a082b836ccd29395a8e6dbaeee656dd123a55ccc5ae5bf6dbb.png",
+      "background_color": "#000000",
+      "segments": []
+    },
+    "relationships": {
+      "contents": {
+        "data": [
+          { "id": "livestreaming-204", "type": "content" },
+          { "id": "livestreaming-205", "type": "content" },
+          { "id": "livestreaming-665", "type": "content" },
+          { "id": "livestreaming-7648", "type": "content" },
+          { "id": "livestreaming-734", "type": "content" },
+          { "id": "livestreaming-733", "type": "content" },
+          { "id": "livestreaming-870", "type": "content" },
+          { "id": "livestreaming-778", "type": "content" },
+          { "id": "livestreaming-875", "type": "content" },
+          { "id": "livestreaming-6362", "type": "content" },
+          { "id": "livestreaming-6299", "type": "content" },
+          { "id": "livestreaming-6317", "type": "content" },
+          { "id": "livestreaming-7464", "type": "content" },
+          { "id": "livestreaming-6399", "type": "content" },
+          { "id": "livestreaming-777", "type": "content" },
+          { "id": "livestreaming-7443", "type": "content" },
+          { "id": "livestreaming-874", "type": "content" },
+          { "id": "livestreaming-7052", "type": "content" },
+          { "id": "livestreaming-1561", "type": "content" }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "type": "content",
+      "id": "livestreaming-204",
+      "attributes": {
+        "content_id": 204,
+        "content_type": "livestreaming",
+        "title": "SCTV",
+        "web_url": "/live/204-sctv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/na_VHmheiJGs5dbfW0FuL3yZ7MY=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-205",
+      "attributes": {
+        "content_id": 205,
+        "content_type": "livestreaming",
+        "title": "Indosiar",
+        "web_url": "/live/205-indosiar",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/lrZq_TQ4_qctJ-g8H_tg5Eu-BIM=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-665",
+      "attributes": {
+        "content_id": 665,
+        "content_type": "livestreaming",
+        "title": "RCTI",
+        "web_url": "/live/665-rcti",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/-AIopfX9Zt6X9J4WOM1drPbM2sQ=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-7648",
+      "attributes": {
+        "content_id": 7648,
+        "content_type": "livestreaming",
+        "title": "Fox Sports 1",
+        "web_url": "/live/7648-fox-sports-1",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/QcWyQmFEpk7du9To0krO-bPyjPM=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7648/e23cc8.jpg"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-734",
+      "attributes": {
+        "content_id": 734,
+        "content_type": "livestreaming",
+        "title": "Trans7",
+        "web_url": "/live/734-trans7",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/kerIFRox3-YdAC2vC0AEpp2K7HU=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-733",
+      "attributes": {
+        "content_id": 733,
+        "content_type": "livestreaming",
+        "title": "TRANS TV",
+        "web_url": "/live/733-trans-tv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/UztzkHBUTti6aOUh1GDcyP9U4Fc=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-870",
+      "attributes": {
+        "content_id": 870,
+        "content_type": "livestreaming",
+        "title": "MNC",
+        "web_url": "/live/870-mnc",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/cS60y3tY6B5h8yWL_qbviURdqLM=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-778",
+      "attributes": {
+        "content_id": 778,
+        "content_type": "livestreaming",
+        "title": "GTV",
+        "web_url": "/live/778-gtv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/o28uOTRWZf32sRgKjwMdKYNHY2E=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-875",
+      "attributes": {
+        "content_id": 875,
+        "content_type": "livestreaming",
+        "title": "NET TV",
+        "web_url": "/live/875-net-tv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/Tl7q9qbv-XXRlOJHfkP6hJK1u5M=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-6362",
+      "attributes": {
+        "content_id": 6362,
+        "content_type": "livestreaming",
+        "title": "TVN",
+        "web_url": "/live/6362-tvn",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/XXoUXCMjTCpb6cvMrO7wSlzcDpY=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-6299",
+      "attributes": {
+        "content_id": 6299,
+        "content_type": "livestreaming",
+        "title": "Bein 1",
+        "web_url": "/live/6299-bein-1",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/HoS4Lnf9rzaxkNa6ZimzYCsehjU=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/6d06a1.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-6317",
+      "attributes": {
+        "content_id": 6317,
+        "content_type": "livestreaming",
+        "title": "Bein 2",
+        "web_url": "/live/6317-bein-2",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/E23EmCxLaB85oSLuJfuHZA8MYHU=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/a6ecaf.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-7464",
+      "attributes": {
+        "content_id": 7464,
+        "content_type": "livestreaming",
+        "title": "AJWA TV",
+        "web_url": "/live/7464-ajwa-tv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/G32CpLI4YXZfy1qpYTRxJiyDi9g=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-6399",
+      "attributes": {
+        "content_id": 6399,
+        "content_type": "livestreaming",
+        "title": "Zee Bioskop",
+        "web_url": "/live/6399-zee-bioskop",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/42xsF5gVD42kAwgwzjbNO-_GrNw=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/ecad2a.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-777",
+      "attributes": {
+        "content_id": 777,
+        "content_type": "livestreaming",
+        "title": "Metro TV",
+        "web_url": "/live/777-metro-tv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/_S_zyM-guHH8P0dl7YJ3iwX6nFI=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-7443",
+      "attributes": {
+        "content_id": 7443,
+        "content_type": "livestreaming",
+        "title": "Gen FM Jakarta",
+        "web_url": "/live/7443-gen-fm-jakarta",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/Ykgh3vz85mahjiQj8a7QkVMg9Ok=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7443/36d403.jpg"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-874",
+      "attributes": {
+        "content_id": 874,
+        "content_type": "livestreaming",
+        "title": "Kompas TV",
+        "web_url": "/live/874-kompas-tv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/XdyqpeZlm3FmaIKyqVrn07KSWrc=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-7052",
+      "attributes": {
+        "content_id": 7052,
+        "content_type": "livestreaming",
+        "title": "Hip Hip Horee!",
+        "web_url": "/live/7052-hip-hip-horee",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/Om4ZkdbTvhE9X3TrRZnsx1lFm50=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/ec097d.png"
+      }
+    },
+    {
+      "type": "content",
+      "id": "livestreaming-1561",
+      "attributes": {
+        "content_id": 1561,
+        "content_type": "livestreaming",
+        "title": "RTV",
+        "web_url": "/live/1561-rtv",
+        "cover_url": "https://cdn-production-thumbor-vidio.akamaized.net/-4_gKZaOiIh669VAWvK3VDMA0uc=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png"
+      }
+    }
+  ]
+}
